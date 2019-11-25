@@ -11,7 +11,8 @@ storiesOf("Image Container", module)
         const style = {
             display: 'flex',
             justifyContent: 'center',
-            alignContent: 'center'
+            alignContent: 'center',
+    
         };
 
         const imageSrc = "https://pen.org/wp-content/uploads/2019/11/49015514881_b012cca491_c.jpg"
